@@ -1,3 +1,12 @@
+#image
+
+
+![Screenshot (57)](https://github.com/rajkamble21/akart/assets/70090963/3cb926b3-a634-4154-a7b9-daccf037cd34)
+![Screenshot (60)](https://github.com/rajkamble21/akart/assets/70090963/f08319ac-b495-4e71-b97b-820721b6df9d)
+![Screenshot (61)](https://github.com/rajkamble21/akart/assets/70090963/a9c25df6-4bc5-4903-9ea3-a341f0fc750a)
+![Screenshot (62)](https://github.com/rajkamble21/akart/assets/70090963/1990db3f-0496-4bad-95e7-82bf8f3dcd2c)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
